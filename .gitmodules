@@ -13,3 +13,9 @@
 [submodule "react-lazy"]
 	path = react-lazy
 	url = https://github.com/HorusCSB/react-lazy.git
+[submodule "react-single"]
+	path = react-single
+	url = https://github.com/HorusCSB/react-single.git
+[submodule "react-multiples"]
+	path = react-multiples
+	url = https://github.com/HorusCSB/react-multiples.git
